@@ -16,12 +16,6 @@ var phoneNumber string
 var age int
 var birthDate time.Time
 
-type User struct {
-	firstName   string
-	phoneNumber string
-	age         int
-	birthDate   time.Time
-	lastName    string
 }
 
 func main() {
