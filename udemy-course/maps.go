@@ -15,8 +15,7 @@ func main() {
 	// A MAP
 	// var myMap2 map[string]string // THIS IS NOT HOW MAP SHOULD BE DECLARED!!!
 
-	// Proper way to create a map:
-	myMap := make(map[string]string)
+	myMap := make(map[string]string) // Proper way to create a map
 	myMap["dog"] = "Azor"
 	myMap["cat"] = "Zajonc"
 

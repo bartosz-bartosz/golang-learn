@@ -16,8 +16,6 @@ var phoneNumber string
 var age int
 var birthDate time.Time
 
-}
-
 func main() {
 
 	var s2 = "six"
